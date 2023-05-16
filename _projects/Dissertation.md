@@ -15,11 +15,5 @@ How can architecture meet the challenges of climate change?
 	<img src="/images/Teo Ramallo Element 2_page_4.webp">
 </div>
 
-### Dissertation
+Dissertation [download pdf](https://github.com/TeoRamallo/PortfolioWebsite/tree/3546c5dd94e366ba5b72e25952498cab6f11f426/images/Teo Ramallo Dissertation.pdf) here.
 
-<pre>
-
-
-
-<iframe src="/images/Teo Ramallo Dissertation.pdf" width="100%" height="800"></iframe>
-</pre>
