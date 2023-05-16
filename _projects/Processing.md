@@ -3,7 +3,7 @@ title: 'Processing'
 subtitle: 'Final Major Project for Foundation in Art & Design at UCA Farnham.'
 date: 2019-04-01 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/ImagesWebsite/Projects/Processing/-.png'
+featured_image: '/images/ImagesWebsite/Projects/Processing/-.webp'
 ---
 
 The concept of my final project is to research the question that I have chosen which is, why does music evoke memories? To do so I will be researching Alzheimer’s and looking into music therapy, and how this type of therapy helps even the people with least memory to be able to still grab onto memories. Will also be researching how music can be shown visually through soundwaves and will also research synesthesia as this is a condition which people see music visually. Aswell as emotions that music evokes as this is what triggers the memories. I will also be looking into different ways of creating visual art such as through after effects, coding, and physical art (drawing, painting, collage). Two of the artists I will research are Joelle Snaith and Joshua Davis.
@@ -17,27 +17,27 @@ Visiting the Tate and Saatchi I saw ways of setting up moving image pieces in di
 ### Image gallery
 
 <div class="gallery" data-columns="3">
-	<img src="/images/ImagesWebsite/Projects/Processing/-.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-03-at-14.44.05.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-03-at-18.29.01.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.19.56.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.03.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.10.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.17.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.25.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.34.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.48.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.21.06.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.21.47.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.22.00.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.22.15.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-29-at-14.14.57.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-29-at-14.15.35.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-13.21.43.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-13.24.02.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-15.54.41.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-11-at-10.51.10.png">
-	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-11-at-14.21.41.png">
+	<img src="/images/ImagesWebsite/Projects/Processing/-.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-03-at-14.44.05.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-03-at-18.29.01.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.19.56.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.03.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.10.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.17.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.25.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.34.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.20.48.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.21.06.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.21.47.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.22.00.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-10-at-15.22.15.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-29-at-14.14.57.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-04-29-at-14.15.35.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-13.21.43.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-13.24.02.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-07-at-15.54.41.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-11-at-10.51.10.webp">
+	<img src="/images/ImagesWebsite/Projects/Processing/Screenshot-2019-03-11-at-14.21.41.webp">
 </div>
 
 
