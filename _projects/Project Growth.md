@@ -16,4 +16,4 @@ This project was created due to the lack of information about exhibition display
 	<img src="/images/ImagesWebsite/Art Direction/Project Growth/Digital-Poster-for-project_Whiteupdated.webp">
 </div>
 
-<iframe src="/images/Locating Practice.pdf" width="100%" height="800"></iframe>
+Dissertation [download pdf](https://github.com/TeoRamallo/PortfolioWebsite/tree/3546c5dd94e366ba5b72e25952498cab6f11f426/images/Locating Practice.pdf) here.
