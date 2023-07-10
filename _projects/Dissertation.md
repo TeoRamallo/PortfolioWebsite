@@ -3,7 +3,7 @@ title: 'Dissertation'
 subtitle: Dissertation and Designed Artefact
 date: 2022-05-01 00:00:00
 description: How can architecture meet the challenges of climate change?
-featured_image: '/images/1 front view final.webp'
+featured_image: '/images/front cover_Page_01.webp'
 ---
 How can architecture meet the challenges of climate change?
 
