@@ -33,6 +33,9 @@ featured_image: '/images/ImagesWebsite/Projects/Drawings/15 Minute drawings seri
 	<img src="/images/ImagesWebsite/Projects/Drawings/Mona-Lisa.webp">
 	<img src="/images/ImagesWebsite/Projects/Drawings/Old-Lady.webp">
 	<img src="/images/ImagesWebsite/Projects/Drawings/Pearl-earing.webp">
+	<img src="/images/IMG_0022.webp">
+	<img src="/images/IMG_0030.webp">
+	<img src="/images/IMG_0042.webp">
 </div>
 
 
