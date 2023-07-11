@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/ImagesWebsite/Art Direction/Project Growth/Image-of-project-Logo.webp'
 ---
 
-This project was created due to the lack of information about exhibition displays and the lack of sustainable displays within the art world.
+This project was created to address the lack of information about exhibition displays and the absence of sustainable displays within the art world.
 
 ### Image galleries
 

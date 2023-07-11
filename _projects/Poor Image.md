@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/ImagesWebsite/Art Direction/Poor Image/UG-Cover.webp'
 ---
 
-User Guide - This User Guide was created as a guide to someone who is reading the text “In Defense of the poor image” - by Hito Steyerl.
+User Guide - This guide is intended for someone who is reading "In Defense of the Poor Image" by Hito Steyerl.
 
 ### Image galleries
 

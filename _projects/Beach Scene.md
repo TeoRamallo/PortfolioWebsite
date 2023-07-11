@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/IMG_0074.webp'
 ---
 
-This is the first scene I created using Unreal Engine 5 and Quixel Bridge assets, of a beach with rock cliff formations.
+This is the first scene I created using Unreal Engine 5 and Quixel Bridge assets. The scene depicts a beach with rock cliff formations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7j3TWbEXgsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
