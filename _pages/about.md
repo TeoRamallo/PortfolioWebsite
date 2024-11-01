@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: I am a graduate of UAL London College of Communications with a BA (Hons) in Design for Art Direction. During my studies, I explored disciplines such as Graphics, and Fine Arts.
+subtitle: I am a recent graduate with a master’s in Game Art from Escape Studios, specializing in creating immersive and detailed environments. I have hands-on experience with industry-standard tools such as Maya for 3D modeling, Substance Painter and Quixel Mixer for texturing, and Unreal Engine 5 for developing high-quality, optimized environments. My focus is on delivering visually compelling and efficient assets for game development.
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
